@@ -1,9 +1,9 @@
 @font-face {
   font-family: "vazirl";
-  src: url("../Fonts/Vazir-Light.eot") format("eot"),
-    url("../Fonts/Vazir-Light.woff") format("woff"),
-    url("../Fonts/Vazir-Light.woff2") format("woff2"),
-    url("../Fonts/Vazir-Light.ttf") format("truetype");
+  src: url("./Fonts/Vazir-Light.eot") format("eot"),
+    url("./Fonts/Vazir-Light.woff") format("woff"),
+    url("./Fonts/Vazir-Light.woff2") format("woff2"),
+    url("./Fonts/Vazir-Light.ttf") format("truetype");
 }
 
 body {
